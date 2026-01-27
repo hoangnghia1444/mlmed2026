@@ -1,6 +1,6 @@
 USTH Machine Learning in Medicine 2026
 ==================================
 
-* Your name here
-* Your ID here
-* Your team ID here
+* Name: Hoang Nguyen Tuan Nghia
+* Student ID: 23BI14335
+* Team: 7
